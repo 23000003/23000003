@@ -1,4 +1,8 @@
-## About Me:
+
+![GO4GxtUacAAV1Eq](https://github.com/user-attachments/assets/bfb1064d-d428-4453-8168-a7f89ee52941)
+
+#
+### About Me:
 - **I'm currently learning about different development fields and software engineering** 🤓
 - **2nd Year Information Technology Student at University of San Carlos.** 🏫
 - **I'm only good in things that interests me.** 🍂
