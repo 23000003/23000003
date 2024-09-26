@@ -32,9 +32,9 @@
 <details>
   <summary><b>Github Stats 🏆</b></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23000003&theme=dracula&exclude_repo=Training-Grounds&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=23000003&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=23000003&theme=dracula&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23000003&theme=blue_navy&exclude_repo=Training-Grounds&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=23000003&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=23000003&theme=blue_navy&hide_border=false"/>
   </div>
 
 </details>
