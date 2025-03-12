@@ -3,7 +3,7 @@
 
 #
 ### About Me:
-- I'm currently learning/exploring <code>*aaS</code> and <code>Software Architectural Patterns</code>. 🤓
+- I'm currently learning/exploring <code>*aaS</code> and <code>Fullstack Development</code>. 🤓
 - 2nd Year Information Technology Student at University of San Carlos. 🏫
 - I'm only good in things that interests me. 🍂
 ##
@@ -17,7 +17,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
