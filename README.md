@@ -3,8 +3,8 @@
 
 #
 ### About Me:
-- I'm currently learning/exploring <code>*aaS</code> and <code>Fullstack Development</code>. 🤓
-- 2nd Year Information Technology Student at University of San Carlos. 🏫
+- I'm currently interested in Software Engineering.
+- 3rd Year Information Technology Student at University of San Carlos. 🏫
 - I'm only good in things that interests me. 🍂
 ##
 
